@@ -1,9 +1,0 @@
-Stock_S,B,200,12.0,Trader-A
-Stock_S,S,200,11.5,Trader-B
-Stock_G,S,300,11.5,Trader-C
-Stock_G,B,200,12.5,Trader-D
-Stock_G,B,200,11.5,Trader-E
-Stock_H,S,200,11.5,Trader-W
-Stock_H,S,200,12.5,Trader-X
-Stock_H,S,200,13.5,Trader-Y
-Stock_H,B,600,13.6,Trader-Z
