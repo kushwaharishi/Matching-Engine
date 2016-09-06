@@ -1,5 +1,11 @@
 README
 
+Run
+./matching
+This executable expects the orders.txt file present in the same dir containing the orders.
+Please check the uploaded orders.txt file for the format.
+
+
 Implementation Internals
 1. Creates seperate matching engine instance per symbol for load balancing.
 2. Creates and maintains seperate order books for buy and sell sorted with best pricing and order time.
